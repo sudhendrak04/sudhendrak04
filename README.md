@@ -1,85 +1,67 @@
-<h1 align="center">I'm Sudhendra Kalkotwar 👋</h1>
+<!-- ============ DESIGN 2: HACKER TERMINAL ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shell&color=0:00FF9C,100:00C2A8&height=180&section=header&text=sudhendra%40github%3A~&fontSize=44&fontColor=00FF9C&stroke=00FF9C&strokeWidth=1&animation=blinking" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Building+with+LLMs%2C+RAG+%26+Knowledge+Graphs;Turning+statistics+and+probabilities+into+products" alt="Typing SVG" />
-</p>
+```bash
+$ whoami
+> sudhendra_kalkotwar --role="data-scientist" --location="Mumbai, IN"
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudhendra-kalkotwar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/n1troO_O"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/sudhendraa_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+$ cat about.txt
+> Fascinated by statistics, probabilities, machine learning and deep learning.
+> Exploring the intersection of LLMs + Knowledge Graphs (GraphRAG).
+> I build practical tools that solve real problems — not just notebooks.
 
----
+$ ./connect --all
+> LinkedIn : https://www.linkedin.com/in/sudhendra-kalkotwar/
+> X        : https://x.com/n1troO_O
+> Instagram: https://www.instagram.com/sudhendraa_/
+```
 
-## 🧠 About Me
-
-- 🔭 I'm fascinated by **statistics, probabilities, machine learning, and deep learning**
-- 🤖 Exploring the intersection of **LLMs + Knowledge Graphs** (GraphRAG)
-- 📊 I love turning raw data into **insights, dashboards, and predictions**
-- 🛠️ I build practical tools that solve real problems — not just notebooks
-
----
-
-## ⚙️ Tech Stack
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Data Science / ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**AI / LLM**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-**BI & Tools**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=root%40localhost%3A~%24+python+train_model.py+--epochs%3Dinf;%5BOK%5D+Loading+LLMs...+RAG...+Knowledge+Graphs...;%5BOK%5D+Optimizing+probabilities..." alt="Typing SVG"/>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `[sudo] apt install skills`
 
-| Project | What it does |
-|---------|--------------|
-| 🔗 [**GraphRAG-finance**](https://github.com/sudhendrak04/GraphRAG-finance) | GraphRAG over financial documents of multiple companies — retrieval powered by knowledge graphs |
-| 🛒 [**Retail Segmentation & Churn Prediction**](https://github.com/sudhendrak04/Retail-Sales-and-Customer-Segmentation-and-Churn-Prediction) | Customer segmentation analysis + churn prediction on retail sales data |
-| 🎙️ [**Voice Agent for Windows**](https://github.com/sudhendrak04/Voice-agent-for-Windows) | A voice-driven agent built for Windows |
-| 🎓 [**Germany University Shortlisting Tool**](https://github.com/sudhendrak04/Germany-University-Program-Shortlisting-Tool) | Scrapes the official DAAD programme database into a clean Excel workbook for applications |
-| 📱 [**MOM-device**](https://github.com/sudhendrak04/MOM-device) | Python-based device project |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,scipy,jupyter,postgres,neo4j" alt="core"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,git,github,bash,linux,vscode,ts,react,nextjs,nodejs" alt="tools"/>
+</div>
 
----
+```bash
+$ ls ~/projects --sort=impact
+```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sudhendrak04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudhendrak04&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhendrak04&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
+| Permissions | Project | Description |
+|-------------|---------|-------------|
+| `rwx` | 🔗 [**GraphRAG-finance**](https://github.com/sudhendrak04/GraphRAG-finance) | GraphRAG over financial documents of multiple companies |
+| `rwx` | 🛒 [**Retail Segmentation & Churn**](https://github.com/sudhendrak04/Retail-Sales-and-Customer-Segmentation-and-Churn-Prediction) | Customer segmentation + churn prediction |
+| `rwx` | 🎙️ [**Voice Agent for Windows**](https://github.com/sudhendrak04/Voice-agent-for-Windows) | Voice-driven agent for Windows |
+| `rwx` | 🎓 [**Germany University Shortlisting Tool**](https://github.com/sudhendrak04/Germany-University-Program-Shortlisting-Tool) | DAAD database → clean Excel workbook |
 
 ---
 
+## `$ tail -f /var/log/stats.log`
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sudhendrak04&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudhendrak04&layout=compact&theme=merko&hide_border=true&bg_color=0d1117" height="165" alt="langs"/>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudhendra-kalkotwar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://x.com/n1troO_O"><img src="https://img.shields.io/badge/X-@n1troO__O-black?style=flat-square&logo=x" alt="X"/></a>
-  <a href="https://www.instagram.com/sudhendraa_/"><img src="https://img.shields.io/badge/Instagram-@sudhendraa__-E4405F?style=flat-square&logo=instagram" alt="Instagram"/></a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sudhendrak04&theme=merko&hide_border=true&background=0D1117" height="165" alt="streak"/>
+</div>
 
-<p align="center">
-  <i>"Probability is the guide of life." always experimenting, always learning.</i>
-</p>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shell&color=0:00C2A8,100:00FF9C&height=80&section=footer&text=%5Bconnection%20closed%5D&fontSize=18&fontColor=00FF9C&descAlignY=75" alt="footer"/>
+
+<div align="center">
+
+```
+exit 0  # "Probability is the guide of life."
+```
+
+</div>
