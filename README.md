@@ -17,8 +17,7 @@
 - 🔭 I'm fascinated by **statistics, probabilities, machine learning, and deep learning**
 - 🤖 Exploring the intersection of **LLMs + Knowledge Graphs** (GraphRAG)
 - 📊 I love turning raw data into **insights, dashboards, and predictions**
-- 🛠️ I build practical tools that solve real problems — not just notebooks
-- 📍 Based in **Mumbai, India**
+- 🛠️ I build practical tools that solve real problems not just notebooks
 
 ---
 
