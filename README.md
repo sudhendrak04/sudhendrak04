@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sudhendra Kalkotwar 👋</h1>
+<h1 align="center">I'm Sudhendra Kalkotwar 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Building+with+LLMs%2C+RAG+%26+Knowledge+Graphs;Turning+statistics+and+probabilities+into+products" alt="Typing SVG" />
