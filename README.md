@@ -17,7 +17,7 @@
 - 🔭 I'm fascinated by **statistics, probabilities, machine learning, and deep learning**
 - 🤖 Exploring the intersection of **LLMs + Knowledge Graphs** (GraphRAG)
 - 📊 I love turning raw data into **insights, dashboards, and predictions**
-- 🛠️ I build practical tools that solve real problems not just notebooks
+- 🛠️ I build practical tools that solve real problems — not just notebooks
 
 ---
 
@@ -53,7 +53,7 @@
 | 🔗 [**GraphRAG-finance**](https://github.com/sudhendrak04/GraphRAG-finance) | GraphRAG over financial documents of multiple companies — retrieval powered by knowledge graphs |
 | 🛒 [**Retail Segmentation & Churn Prediction**](https://github.com/sudhendrak04/Retail-Sales-and-Customer-Segmentation-and-Churn-Prediction) | Customer segmentation analysis + churn prediction on retail sales data |
 | 🎙️ [**Voice Agent for Windows**](https://github.com/sudhendrak04/Voice-agent-for-Windows) | A voice-driven agent built for Windows |
-| 🎓 [**Germany University Shortlisting Tool**](https://sudhendrak04/Germany-University-Program-Shortlisting-Tool) | Scrapes the official DAAD programme database into a clean Excel workbook for applications |
+| 🎓 [**Germany University Shortlisting Tool**](https://github.com/sudhendrak04/Germany-University-Program-Shortlisting-Tool) | Scrapes the official DAAD programme database into a clean Excel workbook for applications |
 | 📱 [**MOM-device**](https://github.com/sudhendrak04/MOM-device) | Python-based device project |
 
 ---
@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhendrak04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhendrak04&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sudhendrak04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudhendrak04&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -73,9 +73,12 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- Trophies widget temporarily disabled: github-profile-trophy is unmaintained (service returning 402).
+     To restore, remove this comment block (or self-deploy https://github.com/ryo-ma/github-profile-trophy to Vercel):
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudhendrak04&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
+-->
 
 ---
 
