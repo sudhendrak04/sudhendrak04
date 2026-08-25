@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  <i>"Probability is the guide of life." — always experimenting, always learning.</i>
+  <i>"Probability is the guide of life." always experimenting, always learning.</i>
 </p>
